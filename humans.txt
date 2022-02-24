@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+     Kevin Abregu email@test.com twitter
 
 # THANKS
 
