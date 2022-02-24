@@ -21,3 +21,7 @@ This is an example text for purpose
 ## Deployment
 
 This is deployment section
+
+## Copyright
+
+2022 Git.Training.
