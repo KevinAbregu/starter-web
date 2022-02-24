@@ -22,6 +22,10 @@ This is an example text for purpose
 
 This is deployment section
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Request
+
 ## Copyright
 
 2022 Git.Training.
